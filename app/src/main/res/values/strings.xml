@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Snapchat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Durée (s)</string>
+
+    <string-array name="date_array">
+        <item>Cinq</item>
+        <item>Dix</item>
+        <item>Quinze</item>
+        <item>Trente</item>
+        <item>Soixante</item>
+    </string-array>
+</resources>
